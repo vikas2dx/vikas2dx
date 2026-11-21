@@ -127,7 +127,6 @@ I believe the best way to grow as an engineer is by building real-world applicat
 
 ## 📫 Connect With Me
 
-- 🌐 **[Website](https://vikas2dx.dev)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/vikas2dx/)**
 - 💻 **[GitHub](https://github.com/vikas2dx)**
 
